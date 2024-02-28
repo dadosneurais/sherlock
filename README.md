@@ -12,8 +12,8 @@
 4. git commit -m 'enviado ao github'
 5. ver onde o remote está apontado: git remote -v
 6. git remote add origin <url do repositório/nome do diretório que irá criar.git>
-6.1. * ps: caso já esteje utilizando um remote é preciso retirálo
-6.2. * git remote remove origin
+6.1. caso já esteje utilizando um remote é preciso retirálo
+6.2. git remote remove origin
 7. git push -u origin main
 
 ```
